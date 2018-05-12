@@ -1,0 +1,29 @@
+_repo: The-Golden-Shoemakeror-Cobbler-Horn_22124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22124-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Keyworth, J. W.
+    gutenberg_agent_id: '25128'
+    url: http://www.gutenberg.org/2009/agents/25128
+description: ''
+gutenberg_issued: '2007-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Missing children -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Philanthropists -- Fiction'
+title: 'The Golden Shoemaker
+
+  or ''Cobbler'' Horn'
+url: http://www.gutenberg.org/ebooks/22124
